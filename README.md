@@ -21,7 +21,7 @@ As you will see in the above image, line 167 of the old file has been removed an
 
 We ask that you review and comment only on the [DRAFT of new OGC IPR Policy](https://github.com/opengeospatial/OGC-IPR-Review-2021/blob/main/ogc_ipr_policy_new.adoc).
 
-Any comments or issues should be logged in this repo [Issues](https://github.com/opengeospatial/OGC-IPR-Review-2021/issues).
+Any comments or issues should be logged in this repo [Issues](https://github.com/opengeospatial/OGC-IPR-Review-2021/issues). 
 
 Within the next several weeks we will be scheduling a series of web meetings to discuss the issues logged in this repository.  The objective is to deliver a final version for OGC Board of Directors approval.  We will then give a 60-day detailed notice to OGC Membership prior to the new policy being posted and becoming effective. 
 
