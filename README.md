@@ -19,7 +19,7 @@ As you will see in the above image, line 167 of the old file has been removed an
 
 ## IPR Policy Review procedures
 
-We ask that you review and comment only on the [DRAFT of new OGC IPR Policy](https://github.com/opengeospatial/OGC-IPR-Review-2021/blob/main/ogc_ipr_policy_new.adoc) ONLY.
+We ask that you review and comment only on the [DRAFT of new OGC IPR Policy](https://github.com/opengeospatial/OGC-IPR-Review-2021/blob/main/ogc_ipr_policy_new.adoc).
 
 Any comments or issues should be logged in this repo [Issues](https://github.com/opengeospatial/OGC-IPR-Review-2021/issues).
 
