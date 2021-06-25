@@ -1,0 +1,502 @@
+:title: INTELLECTUAL PROPERTY RIGHTS POLICY +
+OF THE +
+OPEN GEOSPATIAL CONSORTIUM, INC.
+
+:doctype: book
+:encoding: utf-8
+:lang: en
+:toc: macro
+:toclevels: 3
+:numbered:
+:sectnums:
+:sectnumlevels: 5
+:sectanchors:
+:source-highlighter: coderay
+// set media to output format print or screen for pdf export
+:media: print
+:!numbered:
+= {title}
+
+Revised 18 December 2008
+
+Open Geospatial Consortium, Inc.
+
+35 Main Street, Suite 5
+
+Wayland, MA 01778, USA
+
++1•508•655•5858
+
+www.opengeospatial.org
+
+*Copyright Notice*
+
+© 2009 Open Geospatial Consortium, Inc. All Rights Reserved. OPENGIS, OGC, OGC USERS are registered trademarks and service marks or trademarks and service marks of Open Geospatial Consortium, Inc.
+
+[big]*Revision History*
+
+[width=955]
+|===
+h| *Version* h| *Date* h| *Author/Editor* h| *Comments*
+| 1.0 | 9 May 2002 | Jeff Burnett et al | Adopted by OGC Board of Directors on 9 May 2002.
+| 1.1 1 | 7 April 2003 | Jeff Burnett et al | Accepted by OGC Board of Directors on 17 April 2003.
+| 1.1.1 | 19 May 2003 | Jeff Burnett | Clarifying edits.
+| 1.1.2 3 | 1 August 2004 | Jeff Burnett | Change of name from Open GIS Consortium, Inc. to Open Geospatial Consortium, Inc.
+| 2.0 | 11 July 2007 | Jeff Burnett et al | Revision dated 11 July 2007 accepted by the OGC Board of Directors by unanimous consent. Major revision that defines Standards Working Groups, with IPR licensing options at time of charted, and the ability of Members to "opt-in", or not. Effective after 60-day notice period, on 1 October 2007.
+| 2.1 | 19 December 2008 | Jeff Burnett | Revision dated 19 December 2008 accepted by the OGC Board of Directors by unanimous consent to clarify the OGC IPR Policy with respect to "defensive termination".
+
+|===
+
+[big]*Document Contact Information*
+
+If you have questions or comments regarding this document, you may contact:
+
+[width=955]
+|===
+h| *Name* h| *Organization* h| *Contact Information*
+| Jeff Burnett | Open Geospatial Consortium, Inc. | jburnett@opengeospatial.org or +1 508-655-5858
+| Carl Reed | Open Geospatial Consortium, Inc. | creed@opengeospatial.org or +1 970-419-8755
+
+|===
+
+[big]*Future Work*
+
+The document is periodically reviewed by and changes are made only with the approval of the Board of Directors of the Open Geospatial Consortium, Inc.
+
+toc::[]
+
+:numbered:
+
+== IPR Generally
+
+=== Purpose
+
+Open Geospatial Consortium, Inc. (the "OGC") has adopted this Intellectual Property Rights Policy (the "Policy") and related Policies and Procedures documents in order to minimize the possibility of inadvertent infringement of the IPR of Members and third parties using or implementing any OGC Standards and other Products.
+
+=== Applicability
+
+All Members, all Member Representatives, and all third parties attending any technical process meeting are subject to this Policy and the Policies and Procedures. Members and their Representatives are so bound under the terms of the OGC membership application, and all third parties shall be required to sign an appropriate acknowledgement of the foregoing as a precondition to participating in the OGC technical process.
+
+== Definitions and Acronyms
+
+[width=932]
+|===
+h| *Term* h| *Definition*
+| Call for Patents | See Section 3.4 below.
+| Contribution | An affirmative and knowing contribution, in written or electronic form, with the intention that such material be considered for inclusion in a Candidate Standard or Product. A Contribution may occur: as a result of an unsolicited offer to OGC of existing technology by a Member or third party; in response to a general OGC request for proposals; or from a Participant at any time during a technical process. Contributions of Software or software for inclusion in a Reference Implementation must additionally be accompanied by a completed Software Contribution form in the form attached to this IPR Policy as Appendix D.
+| Contributor | Both a Member as well as any Representative(s) of a Member, and any other person or entity making a Contribution.
+| Defensive Revocation | A term in a License entitling the licensor to revoke the License if the licensee asserts a Necessary Claim under the same Standard Owned by it against any Implementer (including the Licensor), where infringement of such Necessary Claim results solely from the implementation of the Standard.
+| Implementers | Those Members and non-Members who desire to use or implement a Standard or other Product defining an implementable specification.
+| Innovation Program Initiative | Project managed by the Innovation Program that includes Participants from OGC member organizations and which may include financial or in-kind support from Sponsors.
+| IPR | An abbreviation of "Intellectual Property Rights". As used in this Policy, IPR means claims in patents and patent applications and copyrights, but excludes trademarks and trade secrets, which are not included in a Participant and Member's licensing obligations.
+| License | With respect to any Candidate Standard, either (a) an agreement to license Necessary Claim(s) thereunder that are Owned by such Member to any Member or non-Member Implementer, (i) on a nonexclusive, non-transferable, non-sub licensable, worldwide, perpetual and irrevocable (except as set forth below) basis, and (ii) on RAND terms, to make, have made, use, reproduce, market, import, offer to sell and sell, and to otherwise distribute implementations of such Candidate Standard, or (b) a binding, perpetual and irrevocable (except as set forth below) commitment, in a form acceptable to OGC, not to assert such Necessary Claim(s) against any Member or non-Member Implementer of such Candidate Standard, but only to the extent that such Necessary Claim(s) is (are) necessary to implement such Candidate Standard; in each case, conditional upon such Candidate Standard becoming a Standard. For the avoidance of doubt, a license clause providing for a right of Defensive Revocation is considered to be a RAND term.
+| Member | An OGC member, as defined in Article II of the OGC Bylaws.
+| Necessarily Infringed | Unavoidable infringement by an implementation of a Normative Element of a Standard, there being no technically or commercially reasonable alternative way to implement that element of the Standard without resulting in such infringement.
+| Necessary Claims | Those claims of a patent or patent application, throughout the world, excluding design patents and design registrations, Owned by a Member or its Related Parties now or at any future time and which would be Necessarily Infringed by implementation of a Standard. Notwithstanding the foregoing, Necessary Claims shall not include any claims (i) relating to any enabling technologies that may be necessary to make or use any implementation of a Standard but which are not themselves expressly set forth in the Standard (e.g., semiconductor manufacturing technology, compiler technology, object oriented technology, basic operating system technology, and the like); or (ii) necessary for the implementation of other published standards developed elsewhere and merely referred to in the body of the Standard.
+| Normative Element | Any element of a Candidate Standard or Standard that must be implemented in order to comply with such Candidate Standard or Standard. If such Candidate Standard or Standard (i) defines optional elements, or (ii) alternatives methods for implementing elements, then Normative Elements include those elements of the optional part, or alternatives for optional or other elements (as the case may be), that must be implemented if the implementation is to comply with such optional part. Examples and/or reference implementations and other standards or standards that were developed outside the SWG and which are referenced in the body of a particular Candidate Standard or Standard that may be included therein are not Normative Elements.
+| Other Work Product | Any SWG deliverable that is not a Candidate Standard or Standard. Unless the context otherwise requires, any reference to the adoption of Other Work Product shall also be deemed to apply to the adoption of an amendment to that Other Work Product as well.
+| Owned | With respect to any Necessary Claim(s), the word "Owned" includes any Necessary Claim(s) that are controlled but not owned by the Member in question, provided that the Member in question is (i) entitled to sublicense such Necessary Claim(s), and (ii) would not incur an obligation to pay any royalty or other compensation to the true owner of such Necessary Claim(s) in connection with a sublicense.
+| Participant | With respect to the Standards Development Process operated under OGC's Technical Committee, any Member (or, if permitted, non-Member) that enrolls to take part in a SWG that has not withdrawn from such SWG within 60 days of the date upon which that SWG was chartered, or that enrolls in a SWG after such 60 day period. .
+| Policies and Procedures | Individually or collectively, as the context requires, the OGC Technical Committee Policies and Procedures.
+| Proposed Standard | A draft Standard, or a draft OGC Implementation Standard (as defined in the Policies and Procedures document) prior to the adoption of such material as a Standard, or other final disposition.
+| RAND | Reasonable and Non-Discriminatory.
+| RAND-Fee SWG | Any Standards Working Group whose charter does not specify that it is a RAND-Royalty Free SWG.
+| RAND-Royalty Free SWG | A Standards Working Group whose charter specifies that no Participant may assert a right to require payment of royalties or other fees under a License to any IPR owned by such respondent that is necessary to implement the Standard developed by such Standards Working Group and ultimately adopted by the OGC.
+| Related Party | Any entity that is directly or indirectly controlled by the subject party. For this purpose, "control" means beneficial ownership or the right to exercise more than 50% of the voting power for the entity.
+| Representative | Any individual that acts on behalf of a Member in connection with a SWG or Innovation Program Initiative, or in the completion of any form to be delivered to OGC pursuant to this IPR Policy or the Policies and Procedures.
+| Standard | A Candidate Standard that has been formally adopted by OGC. Unless the context otherwise requires, any reference to the adoption of a Candidate Standard shall also be deemed to apply to the adoption of an amendment to a Standard as well.
+| Standards Working Group (SWG) | A Working Group that has been so designated pursuant to Section 3.1.1 of this IPR Policy.
+| SWG Member | With respect to a given Standards Working Group, any Member that has enrolled in that Standards Working Group.
+| Technical Committee (TC) | At any relevant time, the most senior technical committee involved in the technical process.
+| Working Group (WG) | A subgroup of the TC.
+
+|===
+
+== Necessary Claims
+
+The terms of this Section 3 apply to Candidate Standards, Standards, Software and Reference Implementations, but not to Other Work Products.
+
+=== Designations
+
+At the time that a Working Group is created, the charter of that Working Group shall include the designations specified below.
+
+==== Standards Working Group
+
+The charter shall specify whether or not it is within its charge to develop any work product that, if implemented, might include patented technology. In the event that such an activity is within the charge of such Working Group, then it shall be designated a Standards Working Group, and the terms of this Section 3, and all related provisions of the OGC Policies and Procedures, shall apply to such Working Group. In all cases where it is uncertain whether such work product might contain patented technology, the Working Group shall be designated as a Standards Working Group. If at any time during the existence of a Working Group that has not been so designated it becomes apparent to the Chair of such Working Group that patented technology may enter into its work product, then the Working Group shall be re-chartered as a Standards Working Group.
+
+==== Licensing Options
+
+The charter of each SWG shall specify whether the SWG to be formed is a RAND-Royalty Free SWG or a RAND-Fee SWG.
+
+The Innovation Program Initiative Call for Participation will specify license terms for all Initiative Products.
+
+=== Required Commitments and Elections
+
+==== Contributions
+
+Any Contributor making a Contribution to any SWG (regardless of its licensing designation) must commit at the time of making such Contribution that if the Candidate Standard in connection with which the Contribution is made is finally approved by OGC, the Contributor will provide a License to all patent claim(s) Owned by it that become Necessary Claim(s) by reason of its making a Contribution, without compensation and otherwise on a RAND basis, to all Implementers. Such commitment shall be made be made pursuant to a written declaration in the form of *Appendix A* to this IPR Policy.
+
+Any Contributor making a Contribution to any Innovation Program Initiative (regardless of its licensing designation) must commit at the time of making such Contribution that upon publication or distribution of Initiative Products the Contributor will provide a License to all patent claim(s) Owned by it that become Necessary Claim(s) by reason of its making a Contribution, without compensation and otherwise on a RAND basis, to all Implementers. Such commitment shall be made be made pursuant to a written declaration in the form of *Appendix A* to this IPR Policy.
+
+==== RAND-Royalty Free Standards Working Groups
+
+(a) Except as provided in Section 3.2.2(b) below, each Participant in a RAND-Royalty Free SWG shall automatically be committed to provide a License to all patent claims Owned by it, that become Necessary Claim(s) under the Candidate Standard referred to in the charter of such SWG, and whether or not the same have become Necessary Claims by reason of its having made a Contribution, without compensation and otherwise on a RAND basis, to all Implementers.
+
+(b) In the event that a Participant in a RAND-Royalty Free SWG becomes aware at any time that a patent claim Owned by it, other than a Necessary Claim that the Participant is under an obligation to license pursuant to Section 3.2.1 above, would be a Necessary Claim under the Candidate Standard under development, and such Participant is not willing to provide a License to such Necessary Claim in the manner provided in Section 3.2.2(a) above, then it may avoid such obligation (but not any of its obligations under Section 3.2.1 above with respect to such Candidate Standard), subject to fulfilling the following requirements: (i) it discloses the Necessary Claim, and the portion of the Candidate Standard the implementation of which would result in the infringement of such Necessary Claim, and (ii) such disclosure is made promptly following the Participant's becoming aware that such claim may become a Necessary Claim, but in any event prior to the date upon which a final vote by the RAND-Royalty Free SWG to recommend adoption of the Candidate Standard commences.
+
+==== RAND-Fee Standards Working Groups
+
+[type=a]
+. Any Participant must, at the time that a Candidate Standard is posted for final Participant comments (and whether or not such entity is still a Participant at such time), elect one of the following:
+[type=i]
+.. Royalty Free RAND License. Agree that if the Candidate Standard is finally approved by OGC, the Participant will provide a License to all related Necessary Claim(s) Owned by it, without compensation and otherwise on a RAND basis, to all Implementers; or
+.. RAND License with Royalty. Agree to the same terms, but reserving the right to charge a royalty or other fee on RAND terms; or
+.. Withholding of License as to Identified Necessary Claims. Identify those Necessary Claims Owned by it under the Candidate Standard, in its then-current form, and the portion of the Candidate Standard that would result in such infringement, and indicate that no guarantee of license rights is being made (or that such rights will in fact be denied in some or all cases) as to such Necessary Claims. In the case of Necessary Claims under non-public patent applications, the disclosure of such claims need not be in such detail as would disclose any trade secrets.
+
+NOTE: A Participant may elect option i. or ii. as to some Necessary Claim(s), and this option as to other Necessary Claim(s).
+
+Provided, however, that an election form returned pursuant to this Section 3.2.3 by a Participant that was a Contributor shall only apply to those portions of a Candidate Standard that do not derive from such Participant's Contribution, and the Contributor's original undertakings under Section 3.2.1 above shall continue to be binding as to the balance of the Candidate Standard.
+
+[start=2,type=a]
+. No elections under this Section 3.2.3 may be required to be made in less than 45 days from the date that a Candidate Standard has been posted for final comments, and electronic notification of such posting has been sent to each Participant. All elections by Participants shall be made pursuant to a written election in the form of *Appendix B* to this IPR Policy.
+
+==== At Technical Committee Adoption of a Standard
+
+Any Member of the Technical Committee that desires to participate in a vote to recommend a Candidate Standard developed by a Standards Working Group to the Planning Committee for adoption must submit, when required, a completed election form in the form of*Appendix B* to this IPR Policy. No elections under this section 3.2.4 may be required to be made in less than 45 days from the date that a Candidate Standard has been posted for such vote, and electronic notification of such posting has been sent to each such Member.
+
+=== Patent Calls
+
+At the beginning of every in-person meeting, teleconference, Web conference or equivalent collaborative activity that occurs as a part of the technical process, a Patent Call shall be made. The text to be employed in making Patent Calls is set forth in *Appendix C* to this Policy.
+
+=== Sanctions for Failure to Respond or to Knowingly withhold IPR
+
+[type=a]
+. In the event that:
+[type=i]
+.. Any Representative knowingly and willfully fails to respond to a Patent Call with respect to all Necessary Claims that are personally known to such Representative and are Owned by such Representative or his/her employer, or
+.. A Participant fails to timely return a signed and completed election form as required by Section 3.2.3 above,
+
+Then such Participant or non-Participant Member (or the Member represented by the Representative referred to in i. above, as the case may be), shall be deemed to have elected to License all of its Necessary Claims under the Product in question, with the terms to be as set forth in Section 3.2.3(a)i or 3.2.3(a)ii above.
+
+[start=2,type=a]
+. If a non-Participant Member fails to submit a signed and completed election form as required by Section 3.2.4 together with its vote, then such non Participant Member shall be deemed to have elected to License all of its Necessary Claims under the Product in question, with the terms to be as set forth in Section 3.2.3(a)i or 3.2.3(a)ii above.
+. In the event that a Participant or non-Participant Member referred to in Section 3.4(a) above shall later bring an infringement action against any Implementer with respect to a Necessary Claim(s) that was not disclosed as required, the OGC shall have no obligation to intervene, but such Implementer shall be entitled to claim protection, and to assert a complete defense against such action, under this Section 3.5 as an intended third party beneficiary.
+
+=== Document Notations
+
+==== Notation when no Necessary Claims have been Identified
+
+All Candidate Standards that are subject to public comment and all Standards shall include the following introductory language:
+
+"Recipients of this document are requested to submit, with their comments, notification of any relevant patent claims or other intellectual property rights of which they may be aware that might be infringed by any implementation of the standard set forth in this document, and to provide supporting documentation."
+
+All Standards shall additionally include the following introductory language:
+
+"THIS STANDARD IS BEING OFFERED WITHOUT ANY WARRANTY WHATSOEVER, AND IN PARTICULAR, ANY WARRANTY OF NON-INFRINGEMENT IS EXPRESSLY DISCLAIMED. ANY USE OF THIS STANDARD SHALL BE MADE ENTIRELY AT THE IMPLEMENTER'S OWN RISK, AND NEITHER OGC, NOR ANY OF ITS MEMBERS OR CONTRIBUTORS, SHALL HAVE ANY LIABILITY WHATSOEVER TO ANY IMPLEMENTER OR THIRD PARTY FOR ANY DAMAGES OF ANY NATURE WHATSOEVER, DIRECTLY OR INDIRECTLY, ARISING FROM THE USE OF THIS STANDARD."
+
+==== Notation when Necessary Claims or other IPR are Identified
+
+[type=a]
+. When Necessary Claims or other IPR have been identified for Candidate Standards, or thereafter with respect to already published Standards, a notice substantially as follows shall, subject to subsection 3.5.2(b), also be included in the introductory language:
+
+"OGC draws attention to the fact that it is claimed that compliance with this standard may involve the use of a patent or other intellectual property right (collectively, "IPR") concerning [Subject Matter] given in [Sub clause]. OGC takes no position concerning the evidence, validity or scope of this IPR.
+
+"The holder of this IPR has assured OGC that it is willing to license all "Necessary Claims" (as defined under the OGC IPR Policy) relating to this standard it owns [and any third party Necessary Claims it has the right to sublicense] which might be infringed by any implementation of this standard to OGC and those licensees (Members and non-Members alike) desiring to implement this standard. The statement of the holder of this IPR to such effect has been filed with OGC. Information may be obtained from:
+
+ [Name of Holder of Right]
+ [Address]
+
+"Attention is also drawn to the possibility that some of the elements of this standard may be the subject of IPR other than those identified above. OGC shall not be responsible for identifying any or all such IPR.
+
+"THIS STANDARD IS BEING OFFERED WITHOUT ANY WARRANTY WHATSOEVER, AND IN PARTICULAR, ANY WARRANTY OF NON-INFRINGEMENT IS EXPRESSLY DISCLAIMED. ANY USE OF THIS STANDARD SHALL BE MADE ENTIRELY AT THE IMPLEMENTER'S OWN RISK, AND NEITHER OGC, NOR ANY OF ITS MEMBERS OR CONTRIBUTORS, SHALL HAVE ANY LIABILITY WHATSOEVER TO ANY IMPLEMENTER OR THIRD PARTY FOR ANY DAMAGES OF ANY NATURE WHATSOEVER, DIRECTLY OR INDIRECTLY, ARISING FROM THE USE OF THIS STANDARD."
+
+[start=2,type=a]
+. In the event that the owner of any IPR has asserted that infringement would result from the implementation of a Candidate Standard or Standard and such owner has refused to grant a license under the terms of this Policy, then the second paragraph of the above notice shall be replaced or supplemented, as appropriate, with the following:
+
+"The holder of such IPR has refused a request by OGC that it agree to make a license available for the purpose of implementing this standard. Information may be obtained from:
+
+ [Name of Holder of Right]
+ [Address]
+
+=== Patent Searches
+
+In no event shall OGC, or any Representative, Participant or non-Participant Member be obligated to conduct any patent searches regarding any Necessary Claims that may be infringed by any implementation of a Candidate Standard or Standard.
+
+=== Patent Claims Revealed After Publication
+
+In the event that a Necessary Claim is first revealed by a Member or third party following adoption and publication of a Standard (other than a Necessary Claim subject to sanction under Section 3.4 above), such holder will be asked to License the Necessary Claim in the manner outlined in Section 3.2.3(a)(i) or 3.2.3(a)(ii) above. If such request is refused, the Standard in question shall be referred back to the Technical Committee for further consideration, as appropriate.
+
+== Copyrights
+
+=== Copyright in Standards
+
+The copyright for all Standards and Other Work Product shall belong to OGC.
+
+=== Contributions of Copyrighted Materials
+
+Each Contributor who contributes copyrighted materials to OGC shall retain copyright ownership of its original work, while at the same time granting OGC a nonexclusive, irrevocable, worldwide, perpetual, royalty-free license under the Contributor’s copyrights in its Contribution to reproduce, distribute, publish, display, perform, and create derivative works of the Contribution based on that original work for the purpose of developing a Proposed Standard, Standard or Other Work Product under OGC's own copyright.
+
+== Trade Secrets
+
+Participants and other Members will not be expected to reveal trade secret information in the course of participation in any OGC activity, nor will they be asked by OGC to sign non-disclosure agreements. Each Member agrees that Contributions shall be considered non-confidential and non-proprietary information, regardless of any markings to the contrary included thereon. OGC will not be held responsible for the disclosure of any Member's or non-Member's trade secrets, regardless of the circumstances.
+
+== Trademarks
+
+=== OGC Trademarks
+
+Trademarks created by OGC, registered or otherwise, are the property of OGC. Use of OGC trademarks shall be governed by such policies, procedures and guidelines as may be established and approved by OGC from time to time, and applicable law.
+
+=== Non-OGC Trademarks
+
+OGC's use of third-party trademarks, registered or otherwise, shall be governed by such policies, procedures and guidelines as may be established and approved by the owners of such trademarks, and applicable law. No right to use the trademark of any Member shall be implied solely by reason of such entity becoming a Member.
+
+:!numbered:
+[appendix]
+[[AppendixA]]
+== CONTRIBUTION OF TECHNOLOGY FORM
+
+*Open Geospatial Consortium, Inc.*
+
+*CONTRIBUTION OF TECHNOLOGY FORM*
+
+NOTE: All blanks must be completed in order for this Contribution to be given consideration. This Contribution is subject to the Intellectual Property Rights Policy (the "IPR Policy") of Open Geospatial Consortium, Inc.(the "OGC"), and the Policies and Procedures documentof the OGC (collectively, both such documents being referred to below as the "Policies and Procedures"). *All capitalized terms used in this form are intended to have the meanings given to them in the IPR Policy.*
+
+[width=916]
+|===
+h| *Name of Contributor:* a|
+| *Name of Representative Completing this Form on Behalf of Contributor:* a|
+| *Mailing Address of Representative:* a|
+| *Email Address of Representative:* a|
+| *Draft Standard and RFP (if any) to which this Contribution relates:* a|
+
+|===
+
+A. The Representative hereby represents the following on behalf of him/herself and the Contributor, as the context requires:
+
+1. The Representative is authorized to make the Contribution attached hereto as *Exhibit A* on behalf of the Contributor, and to make the following representations and warranties.
+
+2. The Contributor has reviewed the Policies and Procedures and agrees that its Contribution is being made in full compliance with the same.
+
+3. The Contributor hereby irrevocably agrees that if its Contribution is incorporated, either in whole or in part, into the Draft Standard referenced above, that on request it will provide to all Implementers, without compensation and otherwise on a RAND basis,a License to all patent claim(s) Owned by it and/or any of its Related Parties that become Necessary Claim(s) by reason of its making a Contribution.
+
+4. The Contributor hereby grants the OGC a non-exclusive, irrevocable, worldwide, perpetual, royalty-free license under the Contributor's copyrights in its Contribution to reproduce, distribute, publish, display, perform, and create derivative works of the Contribution based on that original work for the purpose of developing a Candidate Standard, Standard or Other Work Product under OGC's own copyright, and agrees that in the event the Contribution is accepted, in whole or in part, that the OGC will own the copyright in the resulting Standard and all rights therein, including the rights of distribution. This agreement shall not in any way deprive the Contributor of any patent claims or other IPR relating to the technology to which its Contribution relates.
+
+5. The Contributor is not aware of any Necessary Claim(s) or other IPR of any third party that might be infringed by the implementation of the Standard referenced above as a result of the incorporation of the Contribution therein, whether in whole or in part. If the Contributor is aware of any such potential infringement, then the Contributor has described such Necessary Claim(s) on *Exhibit* B, together with any supporting documentation that may be readily available to the Contributor.
+
+B. The OGC, in accepting this Contribution, acknowledges the following:
+
+1. The representation required in paragraph A.5 above is being solicited purely for informational purposes, and the OGC will not be relying on such representation or otherwise holding the Representative or Contributor responsible for its completeness or accuracy.
+
+2. EXCEPT AS SPECIFICALLY PROVIDED FOR ABOVE, THIS CONTRIBUTION IS BEING OFFERED WITHOUT ANY WARRANTY WHATSOEVER, AND IN PARTICULAR, ANY WARRANTY OF NON-INFRINGEMENT IS EXPRESSLY DISCLAIMED, EXCEPT TO THE EXTENT OF KNOWING FALSITY IN ANY STATEMENT MADE ABOVE. ANY IMPLEMENTATION OF ANY STANDARD INCORPORATING THIS CONTRIBUTION IN WHOLE OR IN PART SHALL BE MADE ENTIRELY AT THE IMPLEMENTER'S OWN RISK, AND THE CONTRIBUTOR SHALL HAVE NO LIABILITY WHATSOEVER TO ANY IMPLEMENTER OR THIRD PARTY FOR ANY DAMAGES OF ANY NATURE WHATSOEVER DIRECTLY OR INDIRECTLY ARISING FROM SUCH IMPLEMENTATION, EXCEPT AS A RESULT OF ANY KNOWING FALSITY IN ANY STATEMENT MADE ABOVE.
+
+This Contribution has been made on _____________, 20__.
+
+Name of Contributor
+
+By: _____________
+Signature of Representative
+
+Name: _____________
+
+*Exhibit Index:*
+
+*A: Contribution*
+
+*B: Third Party Necessary Claims (if any)*
+
+<<<
+*Exhibit A*
+
+*CONTRIBUTION*
+
+Insert description of Contribution in such detail as may from time to time be required under the Policies and Procedures
+
+<<<
+*Exhibit B*
+
+*THIRD PARTY NECESSARY CLAIMS OR OTHER IPR*
+
+List here all Necessary Claim(s) Owned by third parties, to the extent of your knowledge.
+
+[width=917]
+|===
+h| *Patent Number* h| *Necessary Claim* h| *Affected Portion of Candidate Standard*
+a|
+
+a|
+
+a|
+a|
+
+a|
+
+a|
+a|
+
+a|
+
+a|
+a|
+
+a|
+
+a|
+a|
+
+a|
+
+a|
+
+|===
+
+[appendix]
+[[AppendixB]]
+== INTELLECTUAL PROPERTY RIGHTS ELECTION FORM
+
+*Open Geospatial Consortium, Inc.*
+
+*INTELLECTUAL PROPERTY RIGHTS ELECTION FORM*
+
+*(For use in RAND-FEE SWGs and at Technical Committee Adoption.)*
+
+NOTE: All blanks must be completed in order for this election form to be given consideration. This election form is subject to the Intellectual Property Rights Policy (the "IPR Policy") of Open Geospatial Consortium, Inc. (the "OGC"), and thePolicies and Procedures documentof the OGC (collectively, both such documents being referred to below as the "Policies and Procedures"). *All capitalized terms used in this form are intended to have the meanings given to them in the IPR Policy.*
+
+[width=916]
+|===
+h| *Name of Member:* a|
+| *Name of Representative Completing this Form on Behalf of Member:* a|
+| *Mailing Address of Representative:* a|
+| *Email Address of Representative:* a|
+| *Candidate Standard to which this Election Form relates:* a|
+
+|===
+
+A. The Representative hereby represents the following on behalf of him/herself and the Member, as the context requires:
+
+1. The Representative is authorized to complete and submit this Election Form on behalf of the Member, and to make the following representations and warranties.
+
+2. The Representative and the Member have each reviewed the Policies and Procedures, and agree that this Election Form is being completed and submitted in full compliance with the same.
+
+3. The Contributor hereby irrevocably agrees that if the Candidate Standard referred to above is finally adopted _( *Note:* all Representatives *must* elect one of the following ):_
+
+___ It will, on request, provide to all Implementers, without compensation and otherwise on a RAND basis, a License to all Necessary Claims Owned by it and/or its Related Parties; _*and/or*_
+
+___ The Member agrees to the same terms, except with regard to compensation, and reserves the right to charge a royalty or other fee on RAND terms; _*and/or*_
+
+___ *Exhibit A-1* identifies certain Necessary Claim(s) owned by it and/or any of its Related Parties under the Candidate Standard, in its current form, and the portion of the Candidate Standard that would Necessarily Infringe such Necessary Claims, and the Member hereby notifies the OGC that no guarantee of License rights is being made (or that such rights will in fact be denied in all cases) as to such Necessary Claims. (In the case of Necessary Claims under non-public patent applications, the disclosure on Exhibit B-1 of such claims need not be in such detail as would disclose any trade secrets.)
+
+_(*Note:* You may elect one option as to some Necessary Claim(s) and another option as to other Necessary Claim(s))._
+
+4. The Representative is not aware of any Necessary Claim(s) or other IPR of any third party that might be infringed by the implementation of the Candidate Standard referenced above. If the Representative is aware of any such potential infringement, then the Representative has described such Necessary Claim(s) or other IPR on *Exhibit A-2*, together with any supporting documentation that may be readily available to the Representative.
+
+B. The OGC, in accepting this Election Form, acknowledges that the representation required in paragraph A.4 above is being solicited purely for informational purposes, and the OGC will not be relying on such representation or otherwise holding the Representative or Member responsible for its completeness or accuracy.
+
++
+
+This Election Form has been submitted on ___, 20_.
+
+___
+
+Name of Participant or
+
+Non-Participant Member
+
+By: ___
+
+Signature of Representative
+
+Name: ___
+
+*Exhibit Index**:*
+
+*A: Withheld IPR (if any)*
+
+*B: Third Party IPR (if any)*
+
+<<<
+*Exhibit A*
+
+*WITHHELD NECESSARY CLAIMS*
+
+List here all Necessary Claim(s) Owned by you or any of your Related Parties for which Licenses will not be supplied.
+
+[width=917]
+|===
+h| *Patent Number* h| *Necessary Claim* h| *Affected Portion of Candidate Standard*
+a|
+
+a|
+
+a|
+a|
+
+a|
+
+a|
+a|
+
+a|
+
+a|
+a|
+
+a|
+
+a|
+a|
+
+a|
+
+a|
+
+|===
+
+<<<
+*Exhibit B*
+
+*THIRD PARTY NECESSARY CLAIMS AND OTHER IPR*
+
+List here all Necessary Claim(s) or other unavailable IPR Owned by third parties, to the extent of your knowledge.
+
+[width=917]
+|===
+h| *Patent Number* h| *Necessary Claim* h| *Affected Portion of Candidate Standard*
+a|
+
+a|
+
+a|
+a|
+
+a|
+
+a|
+a|
+
+a|
+
+a|
+a|
+
+a|
+
+a|
+a|
+
+a|
+
+a|
+
+|===
+
+[appendix]
+[[AppendixC]]
+== PATENT CALL TEXT
+
+*PATENT CALL TEXT*
+
+*[Bracketed text is to be used in connection with electronic collaboration]*
+
+Please be aware that this meeting [activity] is being held under the Intellectual Property Rights Policy adopted by OGC. If you do not have a copy of this policy, please see me [contact the activity host] during this meeting [activity]. You may also view and download a copy of that policy at the ___ section of OGC website.
+
+At this time, I would ask that anyone in attendance [participating] inform me if they are personally aware of any claims under any patent applications or issued patents that would be likely to be infringed by an implementation of the standard or other work product which is the subject of this meeting [activity]. You need not be the inventor of such patent or patent application in order to inform us of its existence, nor will you be held responsible for expressing a belief that turns out to be inaccurate.
