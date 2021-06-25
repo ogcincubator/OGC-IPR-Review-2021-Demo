@@ -23,3 +23,5 @@ We ask that you review and comment only on the [DRAFT of new OGC IPR Policy](htt
 
 Any comments or issues should be logged in this repo [Issues](https://github.com/opengeospatial/OGC-IPR-Review-2021/issues).
 
+Within the next several weeks we will be scheduling a series of web meetings to discuss the issues logged in this repository.  The objective is to deliver a final version for OGC Board of Directors approval.
+
